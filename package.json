@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "@sap/ux-specification": "^1.108.15",
-    "sqlite3": "^5.0.4"
+    "sqlite3": "^5.1.6"
   },
   "scripts": {
     "start": "cds-serve",
